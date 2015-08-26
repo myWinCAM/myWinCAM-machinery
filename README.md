@@ -1,0 +1,1 @@
+# myWinCAM-machinery
